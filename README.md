@@ -15,3 +15,7 @@ A RESTful CRUD API for managing recipes built using Node.js, Express.js, MongoDB
 ## Live API
 
 https://recipes-crud-api-o1oc.onrender.com
+
+## API Documentation
+
+Postman Documentation: https://documenter.getpostman.com/view/58048237/2sBYB2qSKB
